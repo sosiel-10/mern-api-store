@@ -4,7 +4,7 @@
 
 This is a full-stack web application utilizing a modified **MERN** stack with **MySQL** for database management. The project is built with **MySQL, Express.js, React.js, and Node.js** and styled using **Chakra UI**. The frontend is powered by **Vite** for a fast and optimized development experience. The project is deployed on **Render** and is accessible here:
 
-🔗 [**Live App**](https://mern-api-store.onrender.com)
+🔗 [**Live App**](https://mern-api-store.onrender.com) (request may take 50 seconds or more after inactivity)
 
 ## Tech Stack
 
